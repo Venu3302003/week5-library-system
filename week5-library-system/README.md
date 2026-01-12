@@ -105,3 +105,22 @@ python -m library_system.main
 . Book creation
 . Member creation
 . Library initialization
+🧠 Learning Outcomes
+
+Clear understanding of OOP fundamentals
+
+Hands-on experience with classes and objects
+
+Designing a real-world system using Python
+
+Improved code organization and readability
+
+Practical use of file handling
+
+🚀 Conclusion
+
+This project strengthened my understanding of Object-Oriented Programming in Python and helped me move from simple scripts to building structured, real-world applications.
+👨‍💻 Author
+
+Developed as part of Week 5 – Python OOP Learning Program
+Guided by Developers Arena
