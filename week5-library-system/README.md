@@ -15,21 +15,20 @@ This project focuses on applying **OOP fundamentals** in a practical way.
 ---
 
 ## 🎯 Objectives
-
-- Understand Object-Oriented Programming concepts
-- Design classes and objects for real-world problems
-- Practice constructors, methods, and object interaction
-- Implement file handling for data persistence
-- Build a structured, menu-driven Python application
+. Understand Object-Oriented Programming concepts
+. Design classes and objects for real-world problems
+. Practice constructors, methods, and object interaction
+. Implement file handling for data persistence
+. Build a structured, menu-driven Python application
 
 ---
 
 ## 🛠 Technologies Used
 
-- Python 3
-- Object-Oriented Programming (OOP)
-- JSON for data storage
-- Command Line Interface (CLI)
+.  Python 3
+. Object-Oriented Programming (OOP)
+. JSON for data storage
+. Command Line Interface (CLI)
 
 ---
 
@@ -61,16 +60,16 @@ week5-library-system/
 ## 🧩 Class Description
 
 ### 📘 Book Class
-- Attributes: title, author, ISBN, year, availability
-- Methods: borrow book, return book, convert to/from dictionary
+. Attributes: title, author, ISBN, year, availability
+. Methods: borrow book, return book, convert to/from dictionary
 
 ### 👤 Member Class
-- Attributes: name, member ID, borrowed books
-- Methods: borrow book, return book
+. Attributes: name, member ID, borrowed books
+. Methods: borrow book, return book
 
 ### 🏛 Library Class
-- Manages all books and members
-- Handles borrowing, returning, searching, saving, and loading data
+. Manages all books and members
+. Handles borrowing, returning, searching, saving, and loading data
 
 ---
 
@@ -120,4 +119,5 @@ python -m library_system.main
 👨‍💻 Author
  Developed as part of Week 5 – Python OOP Learning Program
  Guided by Developers Arena
+
 
